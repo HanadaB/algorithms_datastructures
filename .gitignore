@@ -1,0 +1,19 @@
+.DS_Store
+._*
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+.vscode/
+
+# compiled binaries
+*/aufgabe*_main
+*/aufgabe*_test
+*/aufgabe*_bench
+
+# large input / generated data
+Q-Gram-Index/random100M.text
+Suffixarray/Candidatus.Solibacter.usitatusEllin6076.fasta
+Suffixarray/data/Candidatus.Solibacter.usitatusEllin6076.fasta
